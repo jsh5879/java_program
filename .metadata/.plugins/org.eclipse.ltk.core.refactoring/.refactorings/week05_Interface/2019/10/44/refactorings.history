@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;Interface&apos;&#x0D;&#x0A;- Original project: &apos;Interface&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Circle.java&#x0D;&#x0A;     Line.java&#x0D;&#x0A;     MyComparable.java&#x0D;&#x0A;     Point.java&#x0D;&#x0A;     SortInterfaceTest.java" description="Delete elements" element1="Circle.java" element2="Point.java" element3="SortInterfaceTest.java" element4="Line.java" element5="MyComparable.java" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1572243438136" subPackages="false" version="1.0"/>
+</session>
